@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculo de Peso</string>
+    <string name="descricao">Digite abaixo seu peso e escolha em qual planeta deseja calcular</string>
+    <string name="infoPeso">Seu Peso</string>
+    <string name="rbMarte">Marte</string>
+    <string name="rbJupiter">Júpiter</string>
+    <string name="rbMercurio">Mercúrio</string>
+    <string name="hintResultado">Seu peso será:</string>
+    <string name="btCalcular">Calcular</string>
+</resources>
